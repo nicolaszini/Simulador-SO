@@ -1,0 +1,6 @@
+ID|TAMAÑO|ARRIBO|RECURSO: TIEMPO|PRIORIDAD (Espacio entre recurso: y tiempo) 
+1|123|0|CPU:5;|Alta
+2|123|0|CPU:3;S:3;CPU:5;E:1;CPU:7;|Baja
+3|54|1|CPU:5;S:2;CPU:1;|Media
+4|432|2|CPU:4;S:4;CPU:1;|Alta
+5|122|3|CPU:3;S:1;CPU:2;|Media
